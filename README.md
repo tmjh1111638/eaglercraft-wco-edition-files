@@ -29,7 +29,7 @@
         關於WSS
     </h3>
     <p>
-        WSS是一個隸屬於IMC.RE伺服器的1.8生存伺服器
+        WSS是一個隸屬於<a href="imc.re>IMC.RE</a>伺服器的1.8生存伺服器
     </p>
     <h3>
         關於我們(WCO)
