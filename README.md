@@ -31,6 +31,9 @@
     <p>
         WSS是一個隸屬於<a href="https://imc.re">IMC.RE</a>伺服器的1.8生存伺服器
     </p>
+    <p>
+        IMC正版IP: s.imc.re
+    </p>
     <h3>
         關於我們(WCO)
     </h3>
