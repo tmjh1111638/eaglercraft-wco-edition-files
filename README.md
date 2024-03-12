@@ -2,7 +2,7 @@
 <html>
 <head>
     <h1>
-        EaglerCraft Free Minecraft On Web
+        這是一款可以讓你免費遊玩minecraft的遊戲
     </h1>
 </head>
 <body>
